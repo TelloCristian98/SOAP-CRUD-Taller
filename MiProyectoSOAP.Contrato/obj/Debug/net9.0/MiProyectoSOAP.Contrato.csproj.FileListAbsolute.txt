@@ -1,0 +1,15 @@
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/bin/Debug/net9.0/MiProyectoSOAP.Contrato.deps.json
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/bin/Debug/net9.0/MiProyectoSOAP.Contrato.dll
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/bin/Debug/net9.0/MiProyectoSOAP.Contrato.pdb
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/bin/Debug/net9.0/MiProyectoSOAP.Entities.dll
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/bin/Debug/net9.0/MiProyectoSOAP.Entities.pdb
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/MiProyectoSOAP.Contrato.csproj.AssemblyReference.cache
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/MiProyectoSOAP.Contrato.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/MiProyectoSOAP.Contrato.AssemblyInfoInputs.cache
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/MiProyectoSOAP.Contrato.AssemblyInfo.cs
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/MiProyectoSOAP.Contrato.csproj.CoreCompileInputs.cache
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/MiProyec.A0966BE0.Up2Date
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/MiProyectoSOAP.Contrato.dll
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/refint/MiProyectoSOAP.Contrato.dll
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/MiProyectoSOAP.Contrato.pdb
+/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/obj/Debug/net9.0/ref/MiProyectoSOAP.Contrato.dll

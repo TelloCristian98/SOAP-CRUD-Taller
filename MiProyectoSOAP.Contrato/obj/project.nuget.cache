@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wW7KIeGbK7Y=",
+  "success": true,
+  "projectFilePath": "/Users/cristiantello/Documents/University/SOAP Sales/MiProyectoSOAP.Contrato/MiProyectoSOAP.Contrato.csproj",
+  "expectedPackageFiles": [
+    "/Users/cristiantello/.nuget/packages/microsoft.extensions.objectpool/8.0.10/microsoft.extensions.objectpool.8.0.10.nupkg.sha512",
+    "/Users/cristiantello/.nuget/packages/system.security.cryptography.pkcs/8.0.1/system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "/Users/cristiantello/.nuget/packages/system.security.cryptography.xml/8.0.2/system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "/Users/cristiantello/.nuget/packages/system.servicemodel.primitives/8.1.0/system.servicemodel.primitives.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

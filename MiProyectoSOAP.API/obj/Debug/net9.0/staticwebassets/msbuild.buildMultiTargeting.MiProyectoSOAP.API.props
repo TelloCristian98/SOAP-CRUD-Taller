@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MiProyectoSOAP.API.props" />
+</Project>
